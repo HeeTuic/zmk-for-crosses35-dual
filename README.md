@@ -1,4 +1,4 @@
-Use this template to customize and play with your 36 Key setup
+zmk-for-crosses35-dual
 
-### Default Firmware Keymap
-![Keymap](keymap-drawer/crosses.svg)
+Suitable for the dual-trackball version of the wireless Crosses35 after my modifications, using the official template with adjustments to some pin locations.
+

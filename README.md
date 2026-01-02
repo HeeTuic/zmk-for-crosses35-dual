@@ -1,4 +1,4 @@
 zmk-for-crosses35-dual
 
-Suitable for the dual-trackball version of the wireless Crosses35 after my modifications, using the official template with adjustments to some pin locations.
+This template is only compatible with the wireless Crosses35 keyboard whose PCB I have modified, not with the original pins.
 
